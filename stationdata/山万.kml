@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>公園</name>
+            <LineString id="geom_0">
+                <coordinates>140.15373,35.73109,0.0 140.15372,35.73077,0.0 140.15379,35.73039,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>公園</name>
+            <Point id="geom_1">
+                <coordinates>140.15374666666665,35.73075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>中学校</name>
+            <LineString id="geom_2">
+                <coordinates>140.14854,35.74046,0.0 140.14838,35.73979,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>中学校</name>
+            <Point id="geom_3">
+                <coordinates>140.14846,35.740125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>井野</name>
+            <LineString id="geom_4">
+                <coordinates>140.14844,35.73318,0.0 140.14865,35.73262,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>井野</name>
+            <Point id="geom_5">
+                <coordinates>140.148545,35.7329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>地区センター</name>
+            <LineString id="geom_6">
+                <coordinates>140.15511,35.72651,0.0 140.15519,35.72585,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>地区センター</name>
+            <Point id="geom_7">
+                <coordinates>140.15515,35.72618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>ユーカリが丘</name>
+            <LineString id="geom_8">
+                <coordinates>140.15697,35.72252,0.0 140.157,35.72244,0.0 140.15698,35.72197,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>ユーカリが丘</name>
+            <Point id="geom_9">
+                <coordinates>140.15698333333333,35.72231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>女子大</name>
+            <LineString id="geom_10">
+                <coordinates>140.15541,35.73788,0.0 140.1549,35.7384,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>女子大</name>
+            <Point id="geom_11">
+                <coordinates>140.15515499999998,35.73814,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
