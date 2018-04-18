@@ -1,4 +1,4 @@
-import json, csv, sys
+import json, csv, sys, time
 import simplekml
 import numpy as np
 import xlrd
@@ -42,26 +42,33 @@ class nazo:
             ff.writerows(data)
         return data
         
-    def choume(self, data, data2):#調べるデータ、町丁目座標データ、の順
-        col = [row[5] for row in data2]
+    def choume(self, data, data2, cityname='千代田区'):#調べるデータ、町丁目座標データ、の順
+        col = []
+        for x in data2:
+            if x[3] == cityname:
+                col.append([x[5], x[6], x[7]])
         lses = []
         for i, x in enumerate(data):
-            if x[1] == "":
-                xx = x[2]
-            elif data[i+1][2] == "":
+            try:
+                if x[1] == "":
+                    xx = x[2]
+                elif data[i+1][2] == "":
+                    xx = x[1]
+                else:
+                    xx = ''
+            except IndexError:
                 xx = x[1]
-            else:
-                xx = ''
+            
             if xx != "":
                 for ii in range(0,9):#0-8
                     xx = xx.replace(self.ntbl[0][ii], self.ntbl[1][ii])
                 xx = xx.split('\n')[0]
                 try:
-                    n = col.index(xx)
+                    n = [temp[0] for temp in col].index(xx)
                     nn = x[8]
                     if type(nn) != float:
                         nn = ''
-                    ls = [xx, data2[n][7], data2[n][6], nn]
+                    ls = [xx, col[n][2], col[n][1], nn]
                 except ValueError:
                     ls = []
             else:
@@ -105,11 +112,14 @@ if __name__ == '__main__':
             company = '山万'
         nazo.station(company=company)
     if i == 2:
-        ftbl = nazo.rcsv("ファイルテーブル.csv")#utf8,ヘッダあり
+        ftbl = nazo.rcsv("ファイルテーブル.csv", encoding='sjis')#sjis,ヘッダなし
+        data2 = nazo.rcsv(r"G:\data\geography\test\13_2006.csv", encoding='sjis')
+        data4 = []
+        for x in ftbl:
+            path = r"G:\data\geography\test\商業統計\東京都小売" + '\\' + x[0]
+            data = nazo.xls2csv(path=path)
+            data3 = nazo.choume(data, data2, cityname=x[1])
+            nazo.wcsv('temp\\{}.csv'.format(x[1]), data3)
+            data4 = data4 + data3
+        nazo.wcsv('temp\\temp3.csv', data4)
         
-        path = r'G:\data\geography\test\町丁目\多摩市\多摩市小売.xls'
-        data = nazo.xls2csv(path=path)
-        path = r'G:\data\geography\test\13224-10.0b\13224_2016.csv'
-        data2 = nazo.rcsv(path, encording='sjis')
-        data3 = nazo.choume(data,data2)
-        print(data3)
