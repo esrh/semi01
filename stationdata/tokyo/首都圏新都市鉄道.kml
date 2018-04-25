@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>柏たなか</name>
+            <LineString id="geom_0">
+                <coordinates>139.95734,35.91027,0.0 139.95769,35.91145,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>柏たなか</name>
+            <Point id="geom_1">
+                <coordinates>139.957515,35.91086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>守谷</name>
+            <LineString id="geom_2">
+                <coordinates>139.99136,35.94973,0.0 139.99266,35.9503,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>守谷</name>
+            <Point id="geom_3">
+                <coordinates>139.99201,35.950015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>万博記念公園</name>
+            <LineString id="geom_4">
+                <coordinates>140.05942,36.05781,0.0 140.05933,36.05899,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>万博記念公園</name>
+            <Point id="geom_5">
+                <coordinates>140.059375,36.058400000000006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>流山おおたかの森</name>
+            <LineString id="geom_6">
+                <coordinates>139.92448,35.87131,0.0 139.92543,35.8722,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>流山おおたかの森</name>
+            <Point id="geom_7">
+                <coordinates>139.924955,35.871755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>みどりの</name>
+            <LineString id="geom_8">
+                <coordinates>140.05608,36.02935,0.0 140.05633,36.03049,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>みどりの</name>
+            <Point id="geom_9">
+                <coordinates>140.056205,36.029920000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>つくば</name>
+            <LineString id="geom_10">
+                <coordinates>140.10956,36.08197,0.0 140.11153,36.08288,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>つくば</name>
+            <Point id="geom_11">
+                <coordinates>140.110545,36.082425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>みらい平</name>
+            <LineString id="geom_12">
+                <coordinates>140.03801,35.9938,0.0 140.03868,35.99501,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>みらい平</name>
+            <Point id="geom_13">
+                <coordinates>140.038345,35.994405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>研究学園</name>
+            <LineString id="geom_14">
+                <coordinates>140.08155,36.0822,0.0 140.08301,36.08213,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>研究学園</name>
+            <Point id="geom_15">
+                <coordinates>140.08228,36.082165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>柏の葉キャンパス</name>
+            <LineString id="geom_16">
+                <coordinates>139.95238,35.89276,0.0 139.95267,35.89387,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>柏の葉キャンパス</name>
+            <Point id="geom_17">
+                <coordinates>139.952525,35.893315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>北千住</name>
+            <LineString id="geom_18">
+                <coordinates>139.80481,35.74869,0.0 139.80554,35.75104,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>北千住</name>
+            <Point id="geom_19">
+                <coordinates>139.80517500000002,35.749865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>三郷中央</name>
+            <LineString id="geom_20">
+                <coordinates>139.87804,35.82396,0.0 139.8787,35.82501,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>三郷中央</name>
+            <Point id="geom_21">
+                <coordinates>139.87837000000002,35.824484999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>六町</name>
+            <LineString id="geom_22">
+                <coordinates>139.82171,35.78394,0.0 139.8219,35.78562,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>六町</name>
+            <Point id="geom_23">
+                <coordinates>139.82180499999998,35.78478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>浅草</name>
+            <LineString id="geom_24">
+                <coordinates>139.79261,35.71478,0.0 139.7923,35.71308,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>浅草</name>
+            <Point id="geom_25">
+                <coordinates>139.79245500000002,35.71393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>八潮</name>
+            <LineString id="geom_26">
+                <coordinates>139.84418,35.80737,0.0 139.84529,35.80816,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>八潮</name>
+            <Point id="geom_27">
+                <coordinates>139.84473500000001,35.807765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>南流山</name>
+            <LineString id="geom_28">
+                <coordinates>139.90347,35.83885,0.0 139.90212,35.83801,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>南流山</name>
+            <Point id="geom_29">
+                <coordinates>139.902795,35.83843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>青井</name>
+            <LineString id="geom_30">
+                <coordinates>139.82021,35.77119,0.0 139.82028,35.77281,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>青井</name>
+            <Point id="geom_31">
+                <coordinates>139.820245,35.772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>秋葉原</name>
+            <LineString id="geom_32">
+                <coordinates>139.77395,35.6976,0.0 139.77435,35.69877,0.0 139.77455,35.70054,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>秋葉原</name>
+            <Point id="geom_33">
+                <coordinates>139.77428333333333,35.69897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>南千住</name>
+            <LineString id="geom_34">
+                <coordinates>139.79844,35.73233,0.0 139.79946,35.73364,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>南千住</name>
+            <Point id="geom_35">
+                <coordinates>139.79895,35.732985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>流山セントラルパーク</name>
+            <LineString id="geom_36">
+                <coordinates>139.91529,35.85519,0.0 139.91507,35.85399,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>流山セントラルパーク</name>
+            <Point id="geom_37">
+                <coordinates>139.91518,35.85459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>新御徒町</name>
+            <LineString id="geom_38">
+                <coordinates>139.78118,35.70699,0.0 139.7835,35.70677,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>新御徒町</name>
+            <Point id="geom_39">
+                <coordinates>139.78234,35.70688,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

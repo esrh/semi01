@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>高尾山</name>
+            <LineString id="geom_0">
+                <coordinates>139.2558,35.63108,0.0 139.25635,35.63107,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>高尾山</name>
+            <Point id="geom_1">
+                <coordinates>139.256075,35.631074999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>清滝</name>
+            <LineString id="geom_2">
+                <coordinates>139.26644,35.63107,0.0 139.26696,35.63109,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>清滝</name>
+            <Point id="geom_3">
+                <coordinates>139.26670000000001,35.63108,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

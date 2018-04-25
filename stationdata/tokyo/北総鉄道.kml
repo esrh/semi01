@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>白井</name>
+            <LineString id="geom_0">
+                <coordinates>140.05288,35.78472,0.0 140.054,35.78475,0.0 140.05435,35.78476,0.0 140.05507,35.78477,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>白井</name>
+            <Point id="geom_1">
+                <coordinates>140.054075,35.78475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>秋山</name>
+            <LineString id="geom_2">
+                <coordinates>139.93222,35.76554,0.0 139.93164,35.76547,0.0 139.93047,35.76531,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>秋山</name>
+            <Point id="geom_3">
+                <coordinates>139.93144333333333,35.765440000000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>大町</name>
+            <LineString id="geom_4">
+                <coordinates>139.9743,35.77518,0.0 139.97392,35.77517,0.0 139.97318,35.77514,0.0 139.97279,35.77514,0.0 139.97251,35.77512,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>大町</name>
+            <Point id="geom_5">
+                <coordinates>139.97334,35.77515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>小室</name>
+            <LineString id="geom_6">
+                <coordinates>140.07517,35.78694,0.0 140.07579,35.78701,0.0 140.07642,35.78707,0.0 140.07687,35.78713,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>小室</name>
+            <Point id="geom_7">
+                <coordinates>140.0760625,35.7870375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>印旛日本医大</name>
+            <LineString id="geom_8">
+                <coordinates>140.203038,35.787721,0.0 140.20248,35.78791,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>印旛日本医大</name>
+            <Point id="geom_9">
+                <coordinates>140.20275900000001,35.787815499999994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>印西牧の原</name>
+            <LineString id="geom_10">
+                <coordinates>140.16778,35.80348,0.0 140.16774,35.80349,0.0 140.16718,35.80362,0.0 140.1665,35.80377,0.0 140.16647,35.80378,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>印西牧の原</name>
+            <Point id="geom_11">
+                <coordinates>140.167134,35.803628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>東松戸</name>
+            <LineString id="geom_12">
+                <coordinates>139.94376,35.77038,0.0 139.94274,35.76979,0.0 139.94232,35.76955,0.0 139.94228,35.76952,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>東松戸</name>
+            <Point id="geom_13">
+                <coordinates>139.94277499999998,35.76981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>千葉ニュータウン中央</name>
+            <LineString id="geom_14">
+                <coordinates>140.11538,35.79994,0.0 140.11589,35.80011,0.0 140.11676,35.80037,0.0 140.11702,35.80046,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>千葉ニュータウン中央</name>
+            <Point id="geom_15">
+                <coordinates>140.1162625,35.800219999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>新鎌ヶ谷</name>
+            <LineString id="geom_16">
+                <coordinates>139.99739,35.77933,0.0 139.99932,35.77989,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>新鎌ヶ谷</name>
+            <Point id="geom_17">
+                <coordinates>139.998355,35.779610000000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>松飛台</name>
+            <LineString id="geom_18">
+                <coordinates>139.95844,35.77538,0.0 139.95796,35.77535,0.0 139.9572,35.77531,0.0 139.95668,35.77529,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>松飛台</name>
+            <Point id="geom_19">
+                <coordinates>139.95757,35.775332500000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>西白井</name>
+            <LineString id="geom_20">
+                <coordinates>140.0309,35.78442,0.0 140.03259,35.78446,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>西白井</name>
+            <Point id="geom_21">
+                <coordinates>140.031745,35.784440000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>京成高砂</name>
+            <LineString id="geom_22">
+                <coordinates>139.86746,35.75091,0.0 139.86572,35.75083,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>京成高砂</name>
+            <Point id="geom_23">
+                <coordinates>139.86659,35.75087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>北国分</name>
+            <LineString id="geom_24">
+                <coordinates>139.91513,35.76302,0.0 139.91331,35.7627,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>北国分</name>
+            <Point id="geom_25">
+                <coordinates>139.91422,35.76286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>新柴又</name>
+            <LineString id="geom_26">
+                <coordinates>139.88053,35.75173,0.0 139.87911,35.75097,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>新柴又</name>
+            <Point id="geom_27">
+                <coordinates>139.87982,35.75135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>矢切</name>
+            <LineString id="geom_28">
+                <coordinates>139.90138,35.75775,0.0 139.89973,35.75726,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>矢切</name>
+            <Point id="geom_29">
+                <coordinates>139.900555,35.757505,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

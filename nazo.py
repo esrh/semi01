@@ -37,9 +37,7 @@ class nazo:
                 aaa.append(a.cell(row, col).value)
             #print(aaa)
             data.append(aaa)
-        with open("temp\\temp.csv", 'w', encoding='utf8') as f:
-            ff = csv.writer(f, lineterminator='\n')
-            ff.writerows(data)
+        self.wcsv("temp\\temp.csv", data)
         return data
         
     def choume(self, data, data2, cityname='千代田区'):#調べるデータ、町丁目座標データ、の順
@@ -98,20 +96,21 @@ class nazo:
 
         kml.save("stationdata\\{}.kml".format(company))
         print(lses)
-        with open("stationdata\\{}.csv".format(company),encoding="utf8", mode='w') as f:
-            ff = csv.writer(f, lineterminator='\n')
-            ff.writerows(lses)
+        self.wcsv("stationdata\\{}.csv".format(company), lses)
         return lses
 
 if __name__ == '__main__':
     nazo = nazo()
-    i = int(input(""))
+    try:
+        i = int(input(" > "))
+    except ValueError:
+        i = 1
     if i == 1:
         company = input(" > ")
         if company == '':
             company = '山万'
         nazo.station(company=company)
-    if i == 2:
+    elif i == 2:
         ftbl = nazo.rcsv("ファイルテーブル.csv", encoding='sjis')#sjis,ヘッダなし
         data2 = nazo.rcsv(r"G:\data\geography\test\13_2006.csv", encoding='sjis')
         data4 = []

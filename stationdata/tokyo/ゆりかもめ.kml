@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>お台場海浜公園</name>
+            <LineString id="geom_0">
+                <coordinates>139.77818,35.62961,0.0 139.77888,35.63,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>お台場海浜公園</name>
+            <Point id="geom_1">
+                <coordinates>139.77853,35.629805000000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>船の科学館</name>
+            <LineString id="geom_2">
+                <coordinates>139.77335,35.62129,0.0 139.77288,35.62186,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>船の科学館</name>
+            <Point id="geom_3">
+                <coordinates>139.773115,35.621575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>テレコムセンター</name>
+            <LineString id="geom_4">
+                <coordinates>139.78001,35.61791,0.0 139.77932,35.61754,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>テレコムセンター</name>
+            <Point id="geom_5">
+                <coordinates>139.77966500000002,35.617725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>汐留</name>
+            <LineString id="geom_6">
+                <coordinates>139.76036,35.66328,0.0 139.75979,35.66269,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>汐留</name>
+            <Point id="geom_7">
+                <coordinates>139.760075,35.662985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>台場</name>
+            <LineString id="geom_8">
+                <coordinates>139.77103,35.62568,0.0 139.77172,35.62606,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>台場</name>
+            <Point id="geom_9">
+                <coordinates>139.77137499999998,35.625870000000006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>有明</name>
+            <LineString id="geom_10">
+                <coordinates>139.79313,35.63482,0.0 139.79355,35.63428,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>有明</name>
+            <Point id="geom_11">
+                <coordinates>139.79334,35.63455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>国際展示場正門</name>
+            <LineString id="geom_12">
+                <coordinates>139.792,35.63059,0.0 139.7906,35.62983,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>国際展示場正門</name>
+            <Point id="geom_13">
+                <coordinates>139.7913,35.63021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>新橋</name>
+            <LineString id="geom_14">
+                <coordinates>139.76082,35.6648,0.0 139.75898,35.66583,0.0 139.75896,35.66612,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>新橋</name>
+            <Point id="geom_15">
+                <coordinates>139.75958666666668,35.66558333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>竹芝</name>
+            <LineString id="geom_16">
+                <coordinates>139.76179,35.65378,0.0 139.76224,35.65435,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>竹芝</name>
+            <Point id="geom_17">
+                <coordinates>139.762015,35.654065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>芝浦ふ頭</name>
+            <LineString id="geom_18">
+                <coordinates>139.75786,35.64249,0.0 139.75788,35.64195,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>芝浦ふ頭</name>
+            <Point id="geom_19">
+                <coordinates>139.75787,35.64222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>日の出</name>
+            <LineString id="geom_20">
+                <coordinates>139.75932,35.64961,0.0 139.759,35.64891,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>日の出</name>
+            <Point id="geom_21">
+                <coordinates>139.75916,35.64926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>青海</name>
+            <LineString id="geom_22">
+                <coordinates>139.78072,35.62447,0.0 139.78191,35.62513,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>青海</name>
+            <Point id="geom_23">
+                <coordinates>139.781315,35.6248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>新豊洲</name>
+            <LineString id="geom_24">
+                <coordinates>139.78985,35.64853,0.0 139.79038,35.64889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>新豊洲</name>
+            <Point id="geom_25">
+                <coordinates>139.79011500000001,35.64871,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>市場前</name>
+            <LineString id="geom_26">
+                <coordinates>139.7853,35.64548,0.0 139.786,35.6459,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>市場前</name>
+            <Point id="geom_27">
+                <coordinates>139.78565,35.64569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>有明テニスの森</name>
+            <LineString id="geom_28">
+                <coordinates>139.78913,35.63971,0.0 139.78866,35.64025,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>有明テニスの森</name>
+            <Point id="geom_29">
+                <coordinates>139.788895,35.63998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>豊洲</name>
+            <LineString id="geom_30">
+                <coordinates>139.79504,35.65341,0.0 139.79583,35.654,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>豊洲</name>
+            <Point id="geom_31">
+                <coordinates>139.795435,35.653705,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

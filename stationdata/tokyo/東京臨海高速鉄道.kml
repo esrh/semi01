@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>天王洲アイル</name>
+            <LineString id="geom_0">
+                <coordinates>139.75095,35.62171,0.0 139.75082,35.61973,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>天王洲アイル</name>
+            <Point id="geom_1">
+                <coordinates>139.75088499999998,35.62072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>東京テレポート</name>
+            <LineString id="geom_2">
+                <coordinates>139.77844,35.62728,0.0 139.77768,35.62689,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>東京テレポート</name>
+            <Point id="geom_3">
+                <coordinates>139.77805999999998,35.627085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>大崎</name>
+            <LineString id="geom_4">
+                <coordinates>139.72743,35.62041,0.0 139.72836,35.61909,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>大崎</name>
+            <Point id="geom_5">
+                <coordinates>139.727895,35.619749999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>東雲</name>
+            <LineString id="geom_6">
+                <coordinates>139.80533,35.64117,0.0 139.80299,35.64047,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>東雲</name>
+            <Point id="geom_7">
+                <coordinates>139.80416,35.640820000000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>新木場</name>
+            <LineString id="geom_8">
+                <coordinates>139.82786,35.64592,0.0 139.82534,35.64574,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>新木場</name>
+            <Point id="geom_9">
+                <coordinates>139.82659999999998,35.645830000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>大井町</name>
+            <LineString id="geom_10">
+                <coordinates>139.73291,35.60761,0.0 139.7358,35.60716,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>大井町</name>
+            <Point id="geom_11">
+                <coordinates>139.734355,35.607385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>国際展示場</name>
+            <LineString id="geom_12">
+                <coordinates>139.79104,35.63406,0.0 139.79235,35.63476,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>国際展示場</name>
+            <Point id="geom_13">
+                <coordinates>139.791695,35.63441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>品川シーサイド</name>
+            <LineString id="geom_14">
+                <coordinates>139.74996,35.61068,0.0 139.74963,35.6089,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>品川シーサイド</name>
+            <Point id="geom_15">
+                <coordinates>139.749795,35.609790000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

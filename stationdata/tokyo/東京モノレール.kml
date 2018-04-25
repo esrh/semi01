@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>天王洲アイル</name>
+            <LineString id="geom_0">
+                <coordinates>139.75065,35.62328,0.0 139.75116,35.62246,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>天王洲アイル</name>
+            <Point id="geom_1">
+                <coordinates>139.750905,35.62287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>大井競馬場前</name>
+            <LineString id="geom_2">
+                <coordinates>139.74716,35.59451,0.0 139.74724,35.59555,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>大井競馬場前</name>
+            <Point id="geom_3">
+                <coordinates>139.74720000000002,35.59503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>モノレール浜松町</name>
+            <LineString id="geom_4">
+                <coordinates>139.75661,35.65514,0.0 139.75673,35.65635,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>モノレール浜松町</name>
+            <Point id="geom_5">
+                <coordinates>139.75666999999999,35.655745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>羽田空港第1ビル</name>
+            <LineString id="geom_6">
+                <coordinates>139.78417,35.54977,0.0 139.78454,35.54925,0.0 139.78512,35.5484,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>羽田空港第1ビル</name>
+            <Point id="geom_7">
+                <coordinates>139.78461000000001,35.54914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>天空橋</name>
+            <LineString id="geom_8">
+                <coordinates>139.75491,35.54753,0.0 139.75429,35.54918,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>天空橋</name>
+            <Point id="geom_9">
+                <coordinates>139.75459999999998,35.548355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>整備場</name>
+            <LineString id="geom_10">
+                <coordinates>139.75336,35.55466,0.0 139.75336,35.55554,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>整備場</name>
+            <Point id="geom_11">
+                <coordinates>139.75336,35.555099999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>羽田空港第2ビル</name>
+            <LineString id="geom_12">
+                <coordinates>139.78778,35.55143,0.0 139.78862,35.55016,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>羽田空港第2ビル</name>
+            <Point id="geom_13">
+                <coordinates>139.78820000000002,35.550795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>流通センター</name>
+            <LineString id="geom_14">
+                <coordinates>139.74937,35.58101,0.0 139.749,35.58188,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>流通センター</name>
+            <Point id="geom_15">
+                <coordinates>139.749185,35.581445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>昭和島</name>
+            <LineString id="geom_16">
+                <coordinates>139.74976,35.57002,0.0 139.74995,35.57077,0.0 139.75007,35.57122,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>昭和島</name>
+            <Point id="geom_17">
+                <coordinates>139.74992666666668,35.57067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>新整備場</name>
+            <LineString id="geom_18">
+                <coordinates>139.78714,35.54348,0.0 139.78685,35.54286,0.0 139.78674,35.54265,0.0 139.78646,35.54218,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>新整備場</name>
+            <Point id="geom_19">
+                <coordinates>139.7867975,35.542792500000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>羽田空港国際線ビル</name>
+            <LineString id="geom_20">
+                <coordinates>139.768914,35.543408,0.0 139.768752,35.54374,0.0 139.768452,35.544127,0.0 139.768216,35.544376,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>羽田空港国際線ビル</name>
+            <Point id="geom_21">
+                <coordinates>139.76858349999998,35.543912750000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,2597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>館林</name>
+            <LineString id="geom_0">
+                <coordinates>139.52802,36.24573,0.0 139.52787,36.24638,0.0 139.52773,36.24689,0.0 139.5276,36.24746,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>館林</name>
+            <Point id="geom_1">
+                <coordinates>139.527805,36.246615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>新伊勢崎</name>
+            <LineString id="geom_2">
+                <coordinates>139.20157,36.31882,0.0 139.20206,36.31735,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>新伊勢崎</name>
+            <Point id="geom_3">
+                <coordinates>139.201815,36.318084999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>福居</name>
+            <LineString id="geom_4">
+                <coordinates>139.45845,36.30572,0.0 139.45889,36.30469,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>福居</name>
+            <Point id="geom_5">
+                <coordinates>139.45866999999998,36.305205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>茂林寺前</name>
+            <LineString id="geom_6">
+                <coordinates>139.52702,36.22572,0.0 139.52707,36.22698,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>茂林寺前</name>
+            <Point id="geom_7">
+                <coordinates>139.527045,36.22635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>県</name>
+            <LineString id="geom_8">
+                <coordinates>139.473,36.29024,0.0 139.47172,36.29101,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>県</name>
+            <Point id="geom_9">
+                <coordinates>139.47236,36.290625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>境町</name>
+            <LineString id="geom_10">
+                <coordinates>139.25797,36.27688,0.0 139.25454,36.27745,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>境町</name>
+            <Point id="geom_11">
+                <coordinates>139.256255,36.277165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>伊勢崎</name>
+            <LineString id="geom_12">
+                <coordinates>139.19581,36.32628,0.0 139.1941,36.32656,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>伊勢崎</name>
+            <Point id="geom_13">
+                <coordinates>139.194955,36.32642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>細谷</name>
+            <LineString id="geom_14">
+                <coordinates>139.34961,36.28338,0.0 139.34837,36.28257,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>細谷</name>
+            <Point id="geom_15">
+                <coordinates>139.34899000000001,36.282975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>韮川</name>
+            <LineString id="geom_16">
+                <coordinates>139.40303,36.30854,0.0 139.40295,36.30849,0.0 139.40264,36.30831,0.0 139.40217,36.30802,0.0 139.40177,36.30776,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>韮川</name>
+            <Point id="geom_17">
+                <coordinates>139.40251199999997,36.308224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>川俣</name>
+            <LineString id="geom_18">
+                <coordinates>139.52648,36.20823,0.0 139.52653,36.20954,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>川俣</name>
+            <Point id="geom_19">
+                <coordinates>139.526505,36.208884999999995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>木崎</name>
+            <LineString id="geom_20">
+                <coordinates>139.31377,36.27161,0.0 139.31224,36.27117,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>木崎</name>
+            <Point id="geom_21">
+                <coordinates>139.313005,36.27139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>羽生</name>
+            <LineString id="geom_22">
+                <coordinates>139.53377,36.17113,0.0 139.53406,36.16984,0.0 139.53426,36.16925,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>羽生</name>
+            <Point id="geom_23">
+                <coordinates>139.53403,36.170073333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>世良田</name>
+            <LineString id="geom_24">
+                <coordinates>139.28287,36.27279,0.0 139.28108,36.27309,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>世良田</name>
+            <Point id="geom_25">
+                <coordinates>139.281975,36.272940000000006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>多々良</name>
+            <LineString id="geom_26">
+                <coordinates>139.50091,36.27333,0.0 139.49973,36.27403,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>多々良</name>
+            <Point id="geom_27">
+                <coordinates>139.50032,36.27368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>東武和泉</name>
+            <LineString id="geom_28">
+                <coordinates>139.45496,36.31614,0.0 139.45522,36.31517,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>東武和泉</name>
+            <Point id="geom_29">
+                <coordinates>139.45508999999998,36.315655,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>野州山辺</name>
+            <LineString id="geom_30">
+                <coordinates>139.4326,36.32662,0.0 139.43142,36.32595,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>野州山辺</name>
+            <Point id="geom_31">
+                <coordinates>139.43201,36.326285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>太田</name>
+            <LineString id="geom_32">
+                <coordinates>139.38008,36.2941,0.0 139.37931,36.29416,0.0 139.37883,36.2942,0.0 139.3785,36.29422,0.0 139.3781,36.29427,0.0 139.37779,36.29431,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>太田</name>
+            <Point id="geom_33">
+                <coordinates>139.37876833333334,36.29420999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>剛志</name>
+            <LineString id="geom_34">
+                <coordinates>139.22446,36.29506,0.0 139.2233,36.29577,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>剛志</name>
+            <Point id="geom_35">
+                <coordinates>139.22388,36.295415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>足利市</name>
+            <LineString id="geom_36">
+                <coordinates>139.4488,36.32901,0.0 139.44756,36.32986,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>足利市</name>
+            <Point id="geom_37">
+                <coordinates>139.44818,36.329435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>大袋</name>
+            <LineString id="geom_38">
+                <coordinates>139.77816,35.92382,0.0 139.77772,35.92538,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>大袋</name>
+            <Point id="geom_39">
+                <coordinates>139.77794,35.9246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>一ノ割</name>
+            <LineString id="geom_40">
+                <coordinates>139.76626,35.96413,0.0 139.76582,35.96562,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>一ノ割</name>
+            <Point id="geom_41">
+                <coordinates>139.76603999999998,35.964875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>堀切</name>
+            <LineString id="geom_42">
+                <coordinates>139.81761,35.74308,0.0 139.81715,35.74361,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>堀切</name>
+            <Point id="geom_43">
+                <coordinates>139.81738,35.743345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>新田</name>
+            <LineString id="geom_44">
+                <coordinates>139.79518,35.85462,0.0 139.79567,35.8536,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>新田</name>
+            <Point id="geom_45">
+                <coordinates>139.795425,35.85411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>鐘ヶ淵</name>
+            <LineString id="geom_46">
+                <coordinates>139.82002,35.73337,0.0 139.82072,35.73415,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>鐘ヶ淵</name>
+            <Point id="geom_47">
+                <coordinates>139.82037,35.733760000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>姫宮</name>
+            <LineString id="geom_48">
+                <coordinates>139.73891,36.00391,0.0 139.73846,36.00493,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>姫宮</name>
+            <Point id="geom_49">
+                <coordinates>139.738685,36.004419999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>せんげん台</name>
+            <LineString id="geom_50">
+                <coordinates>139.77482,35.93519,0.0 139.77437,35.93672,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>せんげん台</name>
+            <Point id="geom_51">
+                <coordinates>139.774595,35.935955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>浅草</name>
+            <LineString id="geom_52">
+                <coordinates>139.79793,35.71157,0.0 139.7987,35.71239,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>浅草</name>
+            <Point id="geom_53">
+                <coordinates>139.798315,35.71198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>西新井</name>
+            <LineString id="geom_54">
+                <coordinates>139.79096,35.7767,0.0 139.78977,35.77786,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>西新井</name>
+            <Point id="geom_55">
+                <coordinates>139.790365,35.77728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>谷塚</name>
+            <LineString id="geom_56">
+                <coordinates>139.80107,35.8141,0.0 139.80186,35.81562,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>谷塚</name>
+            <Point id="geom_57">
+                <coordinates>139.801465,35.81486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>竹ノ塚</name>
+            <LineString id="geom_58">
+                <coordinates>139.79046,35.79363,0.0 139.79098,35.79511,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>竹ノ塚</name>
+            <Point id="geom_59">
+                <coordinates>139.79072,35.79437,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>小菅</name>
+            <LineString id="geom_60">
+                <coordinates>139.8122,35.75814,0.0 139.8131,35.75923,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>小菅</name>
+            <Point id="geom_61">
+                <coordinates>139.81265,35.758685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>北越谷</name>
+            <LineString id="geom_62">
+                <coordinates>139.77972,35.90244,0.0 139.78002,35.90099,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>北越谷</name>
+            <Point id="geom_63">
+                <coordinates>139.77987000000002,35.901714999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>春日部</name>
+            <LineString id="geom_64">
+                <coordinates>139.75367,35.97971,0.0 139.75331,35.97984,0.0 139.75259,35.98014,0.0 139.75159,35.98059,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>春日部</name>
+            <Point id="geom_65">
+                <coordinates>139.75279,35.980070000000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>曳舟</name>
+            <LineString id="geom_66">
+                <coordinates>139.81658,35.71726,0.0 139.81667,35.71891,0.0 139.81677,35.71936,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>曳舟</name>
+            <Point id="geom_67">
+                <coordinates>139.81667333333334,35.71851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>新越谷</name>
+            <LineString id="geom_68">
+                <coordinates>139.78996,35.87491,0.0 139.78967,35.87622,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>新越谷</name>
+            <Point id="geom_69">
+                <coordinates>139.789815,35.875565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>草加</name>
+            <LineString id="geom_70">
+                <coordinates>139.80339,35.82762,0.0 139.80352,35.82914,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>草加</name>
+            <Point id="geom_71">
+                <coordinates>139.80345499999999,35.82838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>北春日部</name>
+            <LineString id="geom_72">
+                <coordinates>139.74405,35.99069,0.0 139.74459,35.98919,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>北春日部</name>
+            <Point id="geom_73">
+                <coordinates>139.74432,35.989940000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>蒲生</name>
+            <LineString id="geom_74">
+                <coordinates>139.79163,35.86751,0.0 139.7919,35.86627,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>蒲生</name>
+            <Point id="geom_75">
+                <coordinates>139.791765,35.86689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>東向島</name>
+            <LineString id="geom_76">
+                <coordinates>139.81926,35.72388,0.0 139.81941,35.72483,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>東向島</name>
+            <Point id="geom_77">
+                <coordinates>139.81933500000002,35.724355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>とうきょうスカイツリー</name>
+            <LineString id="geom_78">
+                <coordinates>139.80863,35.71027,0.0 139.81016,35.71066,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>とうきょうスカイツリー</name>
+            <Point id="geom_79">
+                <coordinates>139.809395,35.710465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>五反野</name>
+            <LineString id="geom_80">
+                <coordinates>139.81062,35.76534,0.0 139.80864,35.76647,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>五反野</name>
+            <Point id="geom_81">
+                <coordinates>139.80963,35.765905000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>武里</name>
+            <LineString id="geom_82">
+                <coordinates>139.77095,35.94825,0.0 139.77047,35.94991,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>武里</name>
+            <Point id="geom_83">
+                <coordinates>139.77071,35.94908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>越谷</name>
+            <LineString id="geom_84">
+                <coordinates>139.78587,35.8883,0.0 139.7866,35.88676,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>越谷</name>
+            <Point id="geom_85">
+                <coordinates>139.78623499999998,35.88753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>松原団地</name>
+            <LineString id="geom_86">
+                <coordinates>139.80035,35.84398,0.0 139.801,35.84262,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>松原団地</name>
+            <Point id="geom_87">
+                <coordinates>139.800675,35.8433,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>梅島</name>
+            <LineString id="geom_88">
+                <coordinates>139.79975,35.77143,0.0 139.7964,35.77326,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>梅島</name>
+            <Point id="geom_89">
+                <coordinates>139.79807499999998,35.772345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>北千住</name>
+            <LineString id="geom_90">
+                <coordinates>139.80518,35.74855,0.0 139.80529,35.7489,0.0 139.80578,35.75053,0.0 139.806,35.75126,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>北千住</name>
+            <Point id="geom_91">
+                <coordinates>139.8055625,35.74981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>牛田</name>
+            <LineString id="geom_92">
+                <coordinates>139.81217,35.74461,0.0 139.81137,35.74448,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>牛田</name>
+            <Point id="geom_93">
+                <coordinates>139.81177000000002,35.744545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>和戸</name>
+            <LineString id="geom_94">
+                <coordinates>139.70162,36.03927,0.0 139.70058,36.04002,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>和戸</name>
+            <Point id="geom_95">
+                <coordinates>139.7011,36.039645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>加須</name>
+            <LineString id="geom_96">
+                <coordinates>139.59621,36.12266,0.0 139.59571,36.12287,0.0 139.59542,36.12301,0.0 139.59493,36.12325,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>加須</name>
+            <Point id="geom_97">
+                <coordinates>139.5955675,36.122947499999995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>東武動物公園</name>
+            <LineString id="geom_98">
+                <coordinates>139.72777,36.02424,0.0 139.72601,36.02516,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>東武動物公園</name>
+            <Point id="geom_99">
+                <coordinates>139.72689,36.024699999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>久喜</name>
+            <LineString id="geom_100">
+                <coordinates>139.67735,36.06503,0.0 139.67787,36.06607,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>久喜</name>
+            <Point id="geom_101">
+                <coordinates>139.67761000000002,36.06555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>花崎</name>
+            <LineString id="geom_102">
+                <coordinates>139.63449,36.10964,0.0 139.6327,36.11025,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>花崎</name>
+            <Point id="geom_103">
+                <coordinates>139.633595,36.109944999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>鷲宮</name>
+            <LineString id="geom_104">
+                <coordinates>139.65739,36.09585,0.0 139.65653,36.0968,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>鷲宮</name>
+            <Point id="geom_105">
+                <coordinates>139.65696,36.096325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>南羽生</name>
+            <LineString id="geom_106">
+                <coordinates>139.55643,36.14999,0.0 139.55748,36.14926,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>南羽生</name>
+            <Point id="geom_107">
+                <coordinates>139.55695500000002,36.149625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>国谷</name>
+            <LineString id="geom_108">
+                <coordinates>139.82337,36.4507,0.0 139.82433,36.45221,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>国谷</name>
+            <Point id="geom_109">
+                <coordinates>139.82385,36.451454999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>野州平川</name>
+            <LineString id="geom_110">
+                <coordinates>139.75337,36.40143,0.0 139.75419,36.40169,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>野州平川</name>
+            <Point id="geom_111">
+                <coordinates>139.75378,36.40156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>江曽島</name>
+            <LineString id="geom_112">
+                <coordinates>139.86107,36.53137,0.0 139.86056,36.53054,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>江曽島</name>
+            <Point id="geom_113">
+                <coordinates>139.860815,36.530955000000006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>おもちゃのまち</name>
+            <LineString id="geom_114">
+                <coordinates>139.82936,36.46621,0.0 139.82971,36.46728,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>おもちゃのまち</name>
+            <Point id="geom_115">
+                <coordinates>139.82953500000002,36.466745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>南宇都宮</name>
+            <LineString id="geom_116">
+                <coordinates>139.8716,36.54354,0.0 139.87173,36.54359,0.0 139.87253,36.54402,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>南宇都宮</name>
+            <Point id="geom_117">
+                <coordinates>139.87195333333332,36.54371666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>東武宇都宮</name>
+            <LineString id="geom_118">
+                <coordinates>139.88062,36.55849,0.0 139.88058,36.55883,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>東武宇都宮</name>
+            <Point id="geom_119">
+                <coordinates>139.88060000000002,36.55866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>安塚</name>
+            <LineString id="geom_120">
+                <coordinates>139.83586,36.4864,0.0 139.83538,36.48489,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>安塚</name>
+            <Point id="geom_121">
+                <coordinates>139.83562,36.485645000000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>野州大塚</name>
+            <LineString id="geom_122">
+                <coordinates>139.77216,36.40858,0.0 139.77303,36.40897,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>野州大塚</name>
+            <Point id="geom_123">
+                <coordinates>139.77259500000002,36.408775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>壬生</name>
+            <LineString id="geom_124">
+                <coordinates>139.80469,36.42197,0.0 139.80533,36.4229,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>壬生</name>
+            <Point id="geom_125">
+                <coordinates>139.80500999999998,36.422435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>西川田</name>
+            <LineString id="geom_126">
+                <coordinates>139.85057,36.51466,0.0 139.85004,36.51384,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>西川田</name>
+            <Point id="geom_127">
+                <coordinates>139.850305,36.514250000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>新栃木</name>
+            <LineString id="geom_128">
+                <coordinates>139.74253,36.38947,0.0 139.74217,36.39065,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>新栃木</name>
+            <Point id="geom_129">
+                <coordinates>139.74235,36.390060000000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>西大家</name>
+            <LineString id="geom_130">
+                <coordinates>139.35702,35.93191,0.0 139.3559,35.93161,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>西大家</name>
+            <Point id="geom_131">
+                <coordinates>139.35646,35.93176,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>坂戸</name>
+            <LineString id="geom_132">
+                <coordinates>139.3946,35.95708,0.0 139.39349,35.95702,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>坂戸</name>
+            <Point id="geom_133">
+                <coordinates>139.394045,35.957049999999995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>武州唐沢</name>
+            <LineString id="geom_134">
+                <coordinates>139.30963,35.95186,0.0 139.30941,35.95208,0.0 139.3092,35.95229,0.0 139.30889,35.95256,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>武州唐沢</name>
+            <Point id="geom_135">
+                <coordinates>139.30928250000002,35.952197500000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>越生</name>
+            <LineString id="geom_136">
+                <coordinates>139.29948,35.9633,0.0 139.29961,35.9628,0.0 139.29975,35.96231,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>越生</name>
+            <Point id="geom_137">
+                <coordinates>139.29961333333333,35.96280333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>東毛呂</name>
+            <LineString id="geom_138">
+                <coordinates>139.31575,35.94682,0.0 139.31491,35.94748,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>東毛呂</name>
+            <Point id="geom_139">
+                <coordinates>139.31533000000002,35.94715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>川角</name>
+            <LineString id="geom_140">
+                <coordinates>139.347,35.93751,0.0 139.34595,35.9377,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_143">
+            <name>川角</name>
+            <Point id="geom_141">
+                <coordinates>139.346475,35.937605000000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_144">
+            <name>武州長瀬</name>
+            <LineString id="geom_142">
+                <coordinates>139.32671,35.94187,0.0 139.32567,35.94212,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_145">
+            <name>武州長瀬</name>
+            <Point id="geom_143">
+                <coordinates>139.32619,35.941995000000006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_146">
+            <name>一本松</name>
+            <LineString id="geom_144">
+                <coordinates>139.37046,35.94048,0.0 139.3697,35.93995,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_147">
+            <name>一本松</name>
+            <Point id="geom_145">
+                <coordinates>139.37008,35.940215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_148">
+            <name>新藤原</name>
+            <LineString id="geom_146">
+                <coordinates>139.73286,36.85288,0.0 139.73316,36.85203,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_149">
+            <name>新藤原</name>
+            <Point id="geom_147">
+                <coordinates>139.73300999999998,36.852455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>小佐越</name>
+            <LineString id="geom_148">
+                <coordinates>139.70637,36.80169,0.0 139.70663,36.80279,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>小佐越</name>
+            <Point id="geom_149">
+                <coordinates>139.7065,36.80224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_152">
+            <name>新高徳</name>
+            <LineString id="geom_150">
+                <coordinates>139.71101,36.77944,0.0 139.71041,36.7801,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_153">
+            <name>新高徳</name>
+            <Point id="geom_151">
+                <coordinates>139.71071,36.77977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_154">
+            <name>大桑</name>
+            <LineString id="geom_152">
+                <coordinates>139.71384,36.76117,0.0 139.71364,36.76091,0.0 139.71354,36.76078,0.0 139.71331,36.76042,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_155">
+            <name>大桑</name>
+            <Point id="geom_153">
+                <coordinates>139.7135825,36.76082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>鬼怒川温泉</name>
+            <LineString id="geom_154">
+                <coordinates>139.71706,36.82309,0.0 139.7163,36.82196,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>鬼怒川温泉</name>
+            <Point id="geom_155">
+                <coordinates>139.71668,36.822525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>鬼怒川公園</name>
+            <LineString id="geom_156">
+                <coordinates>139.72284,36.84193,0.0 139.72281,36.84122,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>鬼怒川公園</name>
+            <Point id="geom_157">
+                <coordinates>139.722825,36.841575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>下今市</name>
+            <LineString id="geom_158">
+                <coordinates>139.69181,36.7259,0.0 139.69373,36.7253,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>下今市</name>
+            <Point id="geom_159">
+                <coordinates>139.69277,36.7256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>大谷向</name>
+            <LineString id="geom_160">
+                <coordinates>139.69238,36.73256,0.0 139.6915,36.73199,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>大谷向</name>
+            <Point id="geom_161">
+                <coordinates>139.69194,36.732275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>曳舟</name>
+            <LineString id="geom_162">
+                <coordinates>139.81658,35.71726,0.0 139.81667,35.71891,0.0 139.81677,35.71936,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>曳舟</name>
+            <Point id="geom_163">
+                <coordinates>139.81667333333334,35.71851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>東あずま</name>
+            <LineString id="geom_164">
+                <coordinates>139.83177,35.70706,0.0 139.83142,35.70769,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>東あずま</name>
+            <Point id="geom_165">
+                <coordinates>139.831595,35.707375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>小村井</name>
+            <LineString id="geom_166">
+                <coordinates>139.82795,35.7102,0.0 139.82727,35.71044,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>小村井</name>
+            <Point id="geom_167">
+                <coordinates>139.82761,35.710319999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>亀戸</name>
+            <LineString id="geom_168">
+                <coordinates>139.82672,35.69773,0.0 139.82768,35.69774,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>亀戸</name>
+            <Point id="geom_169">
+                <coordinates>139.8272,35.697735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_172">
+            <name>亀戸水神</name>
+            <LineString id="geom_170">
+                <coordinates>139.83325,35.6996,0.0 139.83353,35.70029,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_173">
+            <name>亀戸水神</name>
+            <Point id="geom_171">
+                <coordinates>139.83339,35.699945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_174">
+            <name>太田</name>
+            <LineString id="geom_172">
+                <coordinates>139.38008,36.2941,0.0 139.37931,36.29416,0.0 139.37883,36.2942,0.0 139.3785,36.29422,0.0 139.3781,36.29427,0.0 139.37779,36.29431,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_175">
+            <name>太田</name>
+            <Point id="geom_173">
+                <coordinates>139.37876833333334,36.29420999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_176">
+            <name>赤城</name>
+            <LineString id="geom_174">
+                <coordinates>139.27714,36.42574,0.0 139.27642,36.4255,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_177">
+            <name>赤城</name>
+            <Point id="geom_175">
+                <coordinates>139.27678,36.425619999999995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_178">
+            <name>藪塚</name>
+            <LineString id="geom_176">
+                <coordinates>139.31647,36.35819,0.0 139.31631,36.35832,0.0 139.31603,36.35855,0.0 139.31569,36.35883,0.0 139.31535,36.3591,0.0 139.31507,36.35933,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_179">
+            <name>藪塚</name>
+            <Point id="geom_177">
+                <coordinates>139.31582,36.358720000000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_180">
+            <name>阿左美</name>
+            <LineString id="geom_178">
+                <coordinates>139.30633,36.38465,0.0 139.30636,36.38473,0.0 139.30644,36.38492,0.0 139.30653,36.38511,0.0 139.3066,36.38525,0.0 139.30668,36.3854,0.0 139.30676,36.38555,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_181">
+            <name>阿左美</name>
+            <Point id="geom_179">
+                <coordinates>139.30652857142857,36.385087142857145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_182">
+            <name>相老</name>
+            <LineString id="geom_180">
+                <coordinates>139.30406,36.41021,0.0 139.30377,36.41106,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_183">
+            <name>相老</name>
+            <Point id="geom_181">
+                <coordinates>139.303915,36.410635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_184">
+            <name>治良門橋</name>
+            <LineString id="geom_182">
+                <coordinates>139.34215,36.33249,0.0 139.34058,36.33356,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_185">
+            <name>治良門橋</name>
+            <Point id="geom_183">
+                <coordinates>139.341365,36.333025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_186">
+            <name>新桐生</name>
+            <LineString id="geom_184">
+                <coordinates>139.32018,36.39446,0.0 139.32014,36.3948,0.0 139.3201,36.39507,0.0 139.32005,36.39535,0.0 139.31999,36.39559,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_187">
+            <name>新桐生</name>
+            <Point id="geom_185">
+                <coordinates>139.320092,36.395054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_188">
+            <name>三枚橋</name>
+            <LineString id="geom_186">
+                <coordinates>139.35519,36.31292,0.0 139.35474,36.31388,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_189">
+            <name>三枚橋</name>
+            <Point id="geom_187">
+                <coordinates>139.354965,36.3134,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_190">
+            <name>館林</name>
+            <LineString id="geom_188">
+                <coordinates>139.52802,36.24573,0.0 139.52787,36.24638,0.0 139.52773,36.24689,0.0 139.5276,36.24746,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_191">
+            <name>館林</name>
+            <Point id="geom_189">
+                <coordinates>139.527805,36.246615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_192">
+            <name>田沼</name>
+            <LineString id="geom_190">
+                <coordinates>139.58212,36.36741,0.0 139.5817,36.36673,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_193">
+            <name>田沼</name>
+            <Point id="geom_191">
+                <coordinates>139.58191,36.36707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_194">
+            <name>渡瀬</name>
+            <LineString id="geom_192">
+                <coordinates>139.53802,36.26203,0.0 139.53694,36.26165,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_195">
+            <name>渡瀬</name>
+            <Point id="geom_193">
+                <coordinates>139.53748,36.26184000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_196">
+            <name>多田</name>
+            <LineString id="geom_194">
+                <coordinates>139.59332,36.37865,0.0 139.5926,36.3775,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_197">
+            <name>多田</name>
+            <Point id="geom_195">
+                <coordinates>139.59296,36.378074999999995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_198">
+            <name>堀米</name>
+            <LineString id="geom_196">
+                <coordinates>139.58024,36.32886,0.0 139.58042,36.32802,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_199">
+            <name>堀米</name>
+            <Point id="geom_197">
+                <coordinates>139.58033,36.32844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_200">
+            <name>佐野市</name>
+            <LineString id="geom_198">
+                <coordinates>139.57656,36.30663,0.0 139.57524,36.30585,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_201">
+            <name>佐野市</name>
+            <Point id="geom_199">
+                <coordinates>139.5759,36.30624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_202">
+            <name>葛生</name>
+            <LineString id="geom_200">
+                <coordinates>139.60984,36.39801,0.0 139.60873,36.39776,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_203">
+            <name>葛生</name>
+            <Point id="geom_201">
+                <coordinates>139.609285,36.397885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_204">
+            <name>吉水</name>
+            <LineString id="geom_202">
+                <coordinates>139.5795,36.34595,0.0 139.5792,36.3453,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_205">
+            <name>吉水</name>
+            <Point id="geom_203">
+                <coordinates>139.57934999999998,36.345625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>佐野</name>
+            <LineString id="geom_204">
+                <coordinates>139.57825,36.31683,0.0 139.58002,36.31686,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_207">
+            <name>佐野</name>
+            <Point id="geom_205">
+                <coordinates>139.579135,36.316845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>田島</name>
+            <LineString id="geom_206">
+                <coordinates>139.56512,36.2906,0.0 139.56469,36.28985,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>田島</name>
+            <Point id="geom_207">
+                <coordinates>139.564905,36.290225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>太田</name>
+            <LineString id="geom_208">
+                <coordinates>139.37774,36.29406,0.0 139.38057,36.29378,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>太田</name>
+            <Point id="geom_209">
+                <coordinates>139.379155,36.29392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>東小泉</name>
+            <LineString id="geom_210">
+                <coordinates>139.42903,36.2596,0.0 139.42809,36.25983,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>東小泉</name>
+            <Point id="geom_211">
+                <coordinates>139.42856,36.259715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>成島</name>
+            <LineString id="geom_212">
+                <coordinates>139.50613,36.24913,0.0 139.50501,36.24903,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>成島</name>
+            <Point id="geom_213">
+                <coordinates>139.50557,36.24908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>竜舞</name>
+            <LineString id="geom_214">
+                <coordinates>139.40948,36.27851,0.0 139.40872,36.27919,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>竜舞</name>
+            <Point id="geom_215">
+                <coordinates>139.4091,36.27885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>西小泉</name>
+            <LineString id="geom_216">
+                <coordinates>139.40881,36.25925,0.0 139.40821,36.25808,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>西小泉</name>
+            <Point id="geom_217">
+                <coordinates>139.40850999999998,36.258665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_220">
+            <name>小泉町</name>
+            <LineString id="geom_218">
+                <coordinates>139.42075,36.26142,0.0 139.41975,36.26164,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_221">
+            <name>小泉町</name>
+            <Point id="geom_219">
+                <coordinates>139.42025,36.26153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>本中野</name>
+            <LineString id="geom_220">
+                <coordinates>139.47001,36.25845,0.0 139.46907,36.25844,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>本中野</name>
+            <Point id="geom_221">
+                <coordinates>139.46954,36.258445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>館林</name>
+            <LineString id="geom_222">
+                <coordinates>139.52802,36.24573,0.0 139.52787,36.24638,0.0 139.52773,36.24689,0.0 139.5276,36.24746,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_225">
+            <name>館林</name>
+            <Point id="geom_223">
+                <coordinates>139.527805,36.246615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_226">
+            <name>篠塚</name>
+            <LineString id="geom_224">
+                <coordinates>139.44698,36.25673,0.0 139.4452,36.2569,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_227">
+            <name>篠塚</name>
+            <Point id="geom_225">
+                <coordinates>139.44609,36.256815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_228">
+            <name>西新井</name>
+            <LineString id="geom_226">
+                <coordinates>139.79096,35.7767,0.0 139.78977,35.77786,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_229">
+            <name>西新井</name>
+            <Point id="geom_227">
+                <coordinates>139.790365,35.77728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>大師前</name>
+            <LineString id="geom_228">
+                <coordinates>139.78205,35.77904,0.0 139.78126,35.77886,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>大師前</name>
+            <Point id="geom_229">
+                <coordinates>139.781655,35.77895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>池袋</name>
+            <LineString id="geom_230">
+                <coordinates>139.71128,35.73137,0.0 139.71106,35.73099,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>池袋</name>
+            <Point id="geom_231">
+                <coordinates>139.71116999999998,35.731179999999995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>大山</name>
+            <LineString id="geom_232">
+                <coordinates>139.70225,35.7487,0.0 139.70254,35.74844,0.0 139.70308,35.74809,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>大山</name>
+            <Point id="geom_233">
+                <coordinates>139.70262333333332,35.74841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>北池袋</name>
+            <LineString id="geom_234">
+                <coordinates>139.71676,35.74104,0.0 139.71603,35.73963,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>北池袋</name>
+            <Point id="geom_235">
+                <coordinates>139.71639499999998,35.740335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>成増</name>
+            <LineString id="geom_236">
+                <coordinates>139.63376,35.77702,0.0 139.633,35.77754,0.0 139.63271,35.77771,0.0 139.63212,35.7781,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_239">
+            <name>成増</name>
+            <Point id="geom_237">
+                <coordinates>139.63289749999998,35.777592500000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_240">
+            <name>上板橋</name>
+            <LineString id="geom_238">
+                <coordinates>139.67692,35.7633,0.0 139.67549,35.76393,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>上板橋</name>
+            <Point id="geom_239">
+                <coordinates>139.67620499999998,35.763615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_242">
+            <name>下赤塚</name>
+            <LineString id="geom_240">
+                <coordinates>139.64537,35.7703,0.0 139.64433,35.77067,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_243">
+            <name>下赤塚</name>
+            <Point id="geom_241">
+                <coordinates>139.64485000000002,35.770485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_244">
+            <name>中板橋</name>
+            <LineString id="geom_242">
+                <coordinates>139.69521,35.75587,0.0 139.69356,35.75669,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_245">
+            <name>中板橋</name>
+            <Point id="geom_243">
+                <coordinates>139.694385,35.756280000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_246">
+            <name>ときわ台</name>
+            <LineString id="geom_244">
+                <coordinates>139.68964,35.75865,0.0 139.68788,35.75916,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_247">
+            <name>ときわ台</name>
+            <Point id="geom_245">
+                <coordinates>139.68876,35.758905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_248">
+            <name>朝霞台</name>
+            <LineString id="geom_246">
+                <coordinates>139.58664,35.81479,0.0 139.58796,35.8139,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_249">
+            <name>朝霞台</name>
+            <Point id="geom_247">
+                <coordinates>139.5873,35.814345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_250">
+            <name>朝霞</name>
+            <LineString id="geom_248">
+                <coordinates>139.60006,35.79757,0.0 139.60054,35.79596,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_251">
+            <name>朝霞</name>
+            <Point id="geom_249">
+                <coordinates>139.6003,35.796765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_252">
+            <name>下板橋</name>
+            <LineString id="geom_250">
+                <coordinates>139.71495,35.74551,0.0 139.71543,35.74527,0.0 139.71576,35.745,0.0 139.71632,35.74449,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_253">
+            <name>下板橋</name>
+            <Point id="geom_251">
+                <coordinates>139.715615,35.745067500000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_254">
+            <name>東武練馬</name>
+            <LineString id="geom_252">
+                <coordinates>139.66343,35.76855,0.0 139.66165,35.76875,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_255">
+            <name>東武練馬</name>
+            <Point id="geom_253">
+                <coordinates>139.66254,35.768649999999994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_256">
+            <name>和光市</name>
+            <LineString id="geom_254">
+                <coordinates>139.61182,35.78877,0.0 139.61391,35.78793,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_257">
+            <name>和光市</name>
+            <Point id="geom_255">
+                <coordinates>139.612865,35.78835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_258">
+            <name>森林公園</name>
+            <LineString id="geom_256">
+                <coordinates>139.37636,36.04496,0.0 139.3743,36.04537,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_259">
+            <name>森林公園</name>
+            <Point id="geom_257">
+                <coordinates>139.37533000000002,36.045165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_260">
+            <name>川越市</name>
+            <LineString id="geom_258">
+                <coordinates>139.47642,35.91488,0.0 139.47777,35.91339,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_261">
+            <name>川越市</name>
+            <Point id="geom_259">
+                <coordinates>139.477095,35.914135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_262">
+            <name>柳瀬川</name>
+            <LineString id="geom_260">
+                <coordinates>139.56176,35.83102,0.0 139.56316,35.8301,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_263">
+            <name>柳瀬川</name>
+            <Point id="geom_261">
+                <coordinates>139.56246,35.830560000000006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_264">
+            <name>鶴瀬</name>
+            <LineString id="geom_262">
+                <coordinates>139.54057,35.84489,0.0 139.53901,35.84591,0.0 139.53834,35.84631,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_265">
+            <name>鶴瀬</name>
+            <Point id="geom_263">
+                <coordinates>139.53930666666665,35.84570333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_266">
+            <name>若葉</name>
+            <LineString id="geom_264">
+                <coordinates>139.40803,35.94945,0.0 139.40814,35.94936,0.0 139.40929,35.94841,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_267">
+            <name>若葉</name>
+            <Point id="geom_265">
+                <coordinates>139.40848666666668,35.94907333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_268">
+            <name>東武竹沢</name>
+            <LineString id="geom_266">
+                <coordinates>139.23764,36.07594,0.0 139.2376,36.07502,0.0 139.2376,36.0748,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_269">
+            <name>東武竹沢</name>
+            <Point id="geom_267">
+                <coordinates>139.23761333333331,36.075253333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_270">
+            <name>北坂戸</name>
+            <LineString id="geom_268">
+                <coordinates>139.39739,35.97264,0.0 139.3963,35.97132,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_271">
+            <name>北坂戸</name>
+            <Point id="geom_269">
+                <coordinates>139.39684499999998,35.97198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_272">
+            <name>寄居</name>
+            <LineString id="geom_270">
+                <coordinates>139.19426,36.11742,0.0 139.1931,36.1172,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_273">
+            <name>寄居</name>
+            <Point id="geom_271">
+                <coordinates>139.19368,36.11731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_274">
+            <name>川越</name>
+            <LineString id="geom_272">
+                <coordinates>139.48228,35.90813,0.0 139.48263,35.90776,0.0 139.48305,35.90726,0.0 139.48401,35.90627,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_275">
+            <name>川越</name>
+            <Point id="geom_273">
+                <coordinates>139.48299250000002,35.907355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_276">
+            <name>東松山</name>
+            <LineString id="geom_274">
+                <coordinates>139.40187,36.03392,0.0 139.40174,36.03426,0.0 139.40157,36.03466,0.0 139.40117,36.03572,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_277">
+            <name>東松山</name>
+            <Point id="geom_275">
+                <coordinates>139.4015875,36.03464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_278">
+            <name>鶴ヶ島</name>
+            <LineString id="geom_276">
+                <coordinates>139.42502,35.93609,0.0 139.42369,35.93693,0.0 139.42302,35.93735,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_279">
+            <name>鶴ヶ島</name>
+            <Point id="geom_277">
+                <coordinates>139.42391,35.93679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_280">
+            <name>高坂</name>
+            <LineString id="geom_278">
+                <coordinates>139.398,36.00191,0.0 139.39779,36.00261,0.0 139.39769,36.00294,0.0 139.39762,36.00318,0.0 139.39736,36.004,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_281">
+            <name>高坂</name>
+            <Point id="geom_279">
+                <coordinates>139.397692,36.002928000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_282">
+            <name>みずほ台</name>
+            <LineString id="geom_280">
+                <coordinates>139.5518,35.83754,0.0 139.54977,35.83886,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_283">
+            <name>みずほ台</name>
+            <Point id="geom_281">
+                <coordinates>139.550785,35.8382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_284">
+            <name>志木</name>
+            <LineString id="geom_282">
+                <coordinates>139.57459,35.82263,0.0 139.57601,35.82171,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_285">
+            <name>志木</name>
+            <Point id="geom_283">
+                <coordinates>139.5753,35.82217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_286">
+            <name>武蔵嵐山</name>
+            <LineString id="geom_284">
+                <coordinates>139.32853,36.04403,0.0 139.32695,36.04474,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_287">
+            <name>武蔵嵐山</name>
+            <Point id="geom_285">
+                <coordinates>139.32774,36.044385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_288">
+            <name>鉢形</name>
+            <LineString id="geom_286">
+                <coordinates>139.20929,36.11381,0.0 139.20798,36.11364,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_289">
+            <name>鉢形</name>
+            <Point id="geom_287">
+                <coordinates>139.20863500000002,36.113725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_290">
+            <name>玉淀</name>
+            <LineString id="geom_288">
+                <coordinates>139.20057,36.1167,0.0 139.20015,36.11699,0.0 139.19985,36.11719,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_291">
+            <name>玉淀</name>
+            <Point id="geom_289">
+                <coordinates>139.20019,36.11696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_292">
+            <name>男衾</name>
+            <LineString id="geom_290">
+                <coordinates>139.23421,36.10728,0.0 139.23379,36.10845,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_293">
+            <name>男衾</name>
+            <Point id="geom_291">
+                <coordinates>139.23399999999998,36.107865000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_294">
+            <name>ふじみ野</name>
+            <LineString id="geom_292">
+                <coordinates>139.52382,35.85991,0.0 139.52236,35.86158,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_295">
+            <name>ふじみ野</name>
+            <Point id="geom_293">
+                <coordinates>139.52309,35.860744999999994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_296">
+            <name>上福岡</name>
+            <LineString id="geom_294">
+                <coordinates>139.51245,35.87321,0.0 139.51129,35.87453,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_297">
+            <name>上福岡</name>
+            <Point id="geom_295">
+                <coordinates>139.51187,35.87387,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_298">
+            <name>霞ヶ関</name>
+            <LineString id="geom_296">
+                <coordinates>139.44521,35.92511,0.0 139.44392,35.92543,0.0 139.4434,35.92557,0.0 139.44288,35.92574,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_299">
+            <name>霞ヶ関</name>
+            <Point id="geom_297">
+                <coordinates>139.4438525,35.925462499999995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_300">
+            <name>新河岸</name>
+            <LineString id="geom_298">
+                <coordinates>139.49768,35.89056,0.0 139.49692,35.89148,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_301">
+            <name>新河岸</name>
+            <Point id="geom_299">
+                <coordinates>139.4973,35.89102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_302">
+            <name>つきのわ</name>
+            <LineString id="geom_300">
+                <coordinates>139.34516,36.04338,0.0 139.34597,36.04365,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_303">
+            <name>つきのわ</name>
+            <Point id="geom_301">
+                <coordinates>139.345565,36.043515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_304">
+            <name>小川町</name>
+            <LineString id="geom_302">
+                <coordinates>139.26121,36.05854,0.0 139.26009,36.05892,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_305">
+            <name>小川町</name>
+            <Point id="geom_303">
+                <coordinates>139.26065,36.05873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_306">
+            <name>坂戸</name>
+            <LineString id="geom_304">
+                <coordinates>139.39523,35.95729,0.0 139.3934,35.95722,0.0 139.39309,35.95721,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_307">
+            <name>坂戸</name>
+            <Point id="geom_305">
+                <coordinates>139.39390666666668,35.957240000000006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_308">
+            <name>新栃木</name>
+            <LineString id="geom_306">
+                <coordinates>139.74253,36.38947,0.0 139.74217,36.39065,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_309">
+            <name>新栃木</name>
+            <Point id="geom_307">
+                <coordinates>139.74235,36.390060000000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_310">
+            <name>樅山</name>
+            <LineString id="geom_308">
+                <coordinates>139.74156,36.53445,0.0 139.74161,36.53415,0.0 139.74173,36.53344,0.0 139.74185,36.53258,0.0 139.74193,36.53203,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_311">
+            <name>樅山</name>
+            <Point id="geom_309">
+                <coordinates>139.741736,36.53333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_312">
+            <name>板荷</name>
+            <LineString id="geom_310">
+                <coordinates>139.70799,36.61888,0.0 139.70757,36.61992,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_313">
+            <name>板荷</name>
+            <Point id="geom_311">
+                <coordinates>139.70778,36.6194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_314">
+            <name>新大平下</name>
+            <LineString id="geom_312">
+                <coordinates>139.70152,36.33832,0.0 139.70221,36.33962,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_315">
+            <name>新大平下</name>
+            <Point id="geom_313">
+                <coordinates>139.701865,36.33897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_316">
+            <name>楡木</name>
+            <LineString id="geom_314">
+                <coordinates>139.7451,36.50811,0.0 139.74519,36.50754,0.0 139.74531,36.50659,0.0 139.74537,36.50615,0.0 139.74538,36.50601,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_317">
+            <name>楡木</name>
+            <Point id="geom_315">
+                <coordinates>139.74526999999998,36.50688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_318">
+            <name>下小代</name>
+            <LineString id="geom_316">
+                <coordinates>139.71403,36.65056,0.0 139.71401,36.65074,0.0 139.71397,36.65097,0.0 139.71378,36.65219,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_319">
+            <name>下小代</name>
+            <Point id="geom_317">
+                <coordinates>139.71394750000002,36.651115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_320">
+            <name>家中</name>
+            <LineString id="geom_318">
+                <coordinates>139.74738,36.42921,0.0 139.74752,36.43037,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_321">
+            <name>家中</name>
+            <Point id="geom_319">
+                <coordinates>139.74745000000001,36.42979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_322">
+            <name>北鹿沼</name>
+            <LineString id="geom_320">
+                <coordinates>139.73723,36.58125,0.0 139.73751,36.58096,0.0 139.73786,36.58057,0.0 139.73807,36.58034,0.0 139.7381,36.58031,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_323">
+            <name>北鹿沼</name>
+            <Point id="geom_321">
+                <coordinates>139.737754,36.580686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_324">
+            <name>栃木</name>
+            <LineString id="geom_322">
+                <coordinates>139.73081,36.37148,0.0 139.73217,36.37186,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_325">
+            <name>栃木</name>
+            <Point id="geom_323">
+                <coordinates>139.73149,36.371669999999995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_326">
+            <name>明神</name>
+            <LineString id="geom_324">
+                <coordinates>139.71226,36.67601,0.0 139.71215,36.6771,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_327">
+            <name>明神</name>
+            <Point id="geom_325">
+                <coordinates>139.71220499999998,36.676555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_328">
+            <name>東武金崎</name>
+            <LineString id="geom_326">
+                <coordinates>139.74985,36.4655,0.0 139.74912,36.4671,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_329">
+            <name>東武金崎</name>
+            <Point id="geom_327">
+                <coordinates>139.749485,36.466300000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_330">
+            <name>合戦場</name>
+            <LineString id="geom_328">
+                <coordinates>139.74127,36.40809,0.0 139.74077,36.40708,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_331">
+            <name>合戦場</name>
+            <Point id="geom_329">
+                <coordinates>139.74102,36.407585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_332">
+            <name>新鹿沼</name>
+            <LineString id="geom_330">
+                <coordinates>139.74464,36.55796,0.0 139.74471,36.55737,0.0 139.74482,36.55653,0.0 139.74485,36.55628,0.0 139.74488,36.55601,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_333">
+            <name>新鹿沼</name>
+            <Point id="geom_331">
+                <coordinates>139.74478,36.556830000000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_334">
+            <name>藤岡</name>
+            <LineString id="geom_332">
+                <coordinates>139.64573,36.2561,0.0 139.64547,36.25507,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_335">
+            <name>藤岡</name>
+            <Point id="geom_333">
+                <coordinates>139.6456,36.255585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_336">
+            <name>下今市</name>
+            <LineString id="geom_334">
+                <coordinates>139.69181,36.7259,0.0 139.69373,36.7253,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_337">
+            <name>下今市</name>
+            <Point id="geom_335">
+                <coordinates>139.69277,36.7256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_338">
+            <name>東武日光</name>
+            <LineString id="geom_336">
+                <coordinates>139.61908,36.74822,0.0 139.62036,36.74826,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_339">
+            <name>東武日光</name>
+            <Point id="geom_337">
+                <coordinates>139.61972,36.74824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_340">
+            <name>上今市</name>
+            <LineString id="geom_338">
+                <coordinates>139.68143,36.72787,0.0 139.68029,36.72815,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_341">
+            <name>上今市</name>
+            <Point id="geom_339">
+                <coordinates>139.68086,36.72801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_342">
+            <name>新古河</name>
+            <LineString id="geom_340">
+                <coordinates>139.68746,36.19227,0.0 139.68657,36.19313,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_343">
+            <name>新古河</name>
+            <Point id="geom_341">
+                <coordinates>139.68701499999997,36.1927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_344">
+            <name>板倉東洋大前</name>
+            <LineString id="geom_342">
+                <coordinates>139.64873,36.22166,0.0 139.64852,36.22275,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_345">
+            <name>板倉東洋大前</name>
+            <Point id="geom_343">
+                <coordinates>139.64862499999998,36.222205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_346">
+            <name>東武日光</name>
+            <LineString id="geom_344">
+                <coordinates>139.61974,36.74781,0.0 139.62054,36.74806,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_347">
+            <name>東武日光</name>
+            <Point id="geom_345">
+                <coordinates>139.62014,36.747935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_348">
+            <name>柳生</name>
+            <LineString id="geom_346">
+                <coordinates>139.66045,36.20628,0.0 139.65946,36.2069,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_349">
+            <name>柳生</name>
+            <Point id="geom_347">
+                <coordinates>139.659955,36.20659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_350">
+            <name>静和</name>
+            <LineString id="geom_348">
+                <coordinates>139.68447,36.3161,0.0 139.68539,36.31696,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_351">
+            <name>静和</name>
+            <Point id="geom_349">
+                <coordinates>139.68493,36.31653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_352">
+            <name>東武動物公園</name>
+            <LineString id="geom_350">
+                <coordinates>139.72777,36.02424,0.0 139.72601,36.02516,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_353">
+            <name>東武動物公園</name>
+            <Point id="geom_351">
+                <coordinates>139.72689,36.024699999999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_354">
+            <name>幸手</name>
+            <LineString id="geom_352">
+                <coordinates>139.71482,36.07322,0.0 139.715,36.07492,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_355">
+            <name>幸手</name>
+            <Point id="geom_353">
+                <coordinates>139.71491,36.07407,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_356">
+            <name>南栗橋</name>
+            <LineString id="geom_354">
+                <coordinates>139.71357,36.11249,0.0 139.71209,36.11379,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_357">
+            <name>南栗橋</name>
+            <Point id="geom_355">
+                <coordinates>139.71283,36.11314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_358">
+            <name>杉戸高野台</name>
+            <LineString id="geom_356">
+                <coordinates>139.71481,36.05041,0.0 139.71428,36.05229,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_359">
+            <name>杉戸高野台</name>
+            <Point id="geom_357">
+                <coordinates>139.714545,36.05135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_360">
+            <name>栗橋</name>
+            <LineString id="geom_358">
+                <coordinates>139.69392,36.13729,0.0 139.69413,36.13842,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_361">
+            <name>栗橋</name>
+            <Point id="geom_359">
+                <coordinates>139.694025,36.137855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_362">
+            <name>柏</name>
+            <LineString id="geom_360">
+                <coordinates>139.97087,35.8625,0.0 139.97006,35.86147,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_363">
+            <name>柏</name>
+            <Point id="geom_361">
+                <coordinates>139.970465,35.861985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_364">
+            <name>馬込沢</name>
+            <LineString id="geom_362">
+                <coordinates>139.99218,35.74132,0.0 139.99223,35.74199,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_365">
+            <name>馬込沢</name>
+            <Point id="geom_363">
+                <coordinates>139.992205,35.741655,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_366">
+            <name>増尾</name>
+            <LineString id="geom_364">
+                <coordinates>139.9766,35.82956,0.0 139.97605,35.83008,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_367">
+            <name>増尾</name>
+            <Point id="geom_365">
+                <coordinates>139.97632499999997,35.82982,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_368">
+            <name>鎌ヶ谷</name>
+            <LineString id="geom_366">
+                <coordinates>139.99738,35.76412,0.0 139.99724,35.76345,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_369">
+            <name>鎌ヶ谷</name>
+            <Point id="geom_367">
+                <coordinates>139.99731,35.763785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_370">
+            <name>逆井</name>
+            <LineString id="geom_368">
+                <coordinates>139.98412,35.82291,0.0 139.98382,35.82317,0.0 139.98357,35.8234,0.0 139.98331,35.82365,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_371">
+            <name>逆井</name>
+            <Point id="geom_369">
+                <coordinates>139.983705,35.823282500000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_372">
+            <name>六実</name>
+            <LineString id="geom_370">
+                <coordinates>139.99924,35.79421,0.0 139.99925,35.7932,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_373">
+            <name>六実</name>
+            <Point id="geom_371">
+                <coordinates>139.99924499999997,35.793705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_374">
+            <name>高柳</name>
+            <LineString id="geom_372">
+                <coordinates>139.99898,35.80864,0.0 139.99898,35.80797,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_375">
+            <name>高柳</name>
+            <Point id="geom_373">
+                <coordinates>139.99898,35.808305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_376">
+            <name>塚田</name>
+            <LineString id="geom_374">
+                <coordinates>139.98251,35.72168,0.0 139.9833,35.72257,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_377">
+            <name>塚田</name>
+            <Point id="geom_375">
+                <coordinates>139.98290500000002,35.722125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_378">
+            <name>新船橋</name>
+            <LineString id="geom_376">
+                <coordinates>139.97973,35.71098,0.0 139.97991,35.71215,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_379">
+            <name>新船橋</name>
+            <Point id="geom_377">
+                <coordinates>139.97982,35.711565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_380">
+            <name>新柏</name>
+            <LineString id="geom_378">
+                <coordinates>139.96763,35.83758,0.0 139.96645,35.83862,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_381">
+            <name>新柏</name>
+            <Point id="geom_379">
+                <coordinates>139.96704,35.8381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_382">
+            <name>船橋</name>
+            <LineString id="geom_380">
+                <coordinates>139.98472,35.70206,0.0 139.98401,35.70214,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_383">
+            <name>船橋</name>
+            <Point id="geom_381">
+                <coordinates>139.98436500000003,35.7021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_384">
+            <name>流山おおたかの森</name>
+            <LineString id="geom_382">
+                <coordinates>139.92607,35.87196,0.0 139.92545,35.87221,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_385">
+            <name>流山おおたかの森</name>
+            <Point id="geom_383">
+                <coordinates>139.92576000000003,35.872085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_386">
+            <name>豊四季</name>
+            <LineString id="geom_384">
+                <coordinates>139.93988,35.86629,0.0 139.93868,35.86678,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_387">
+            <name>豊四季</name>
+            <Point id="geom_385">
+                <coordinates>139.93928,35.866535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_388">
+            <name>七光台</name>
+            <LineString id="geom_386">
+                <coordinates>139.85326,35.97034,0.0 139.85264,35.97136,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_389">
+            <name>七光台</name>
+            <Point id="geom_387">
+                <coordinates>139.85295000000002,35.97085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_390">
+            <name>梅郷</name>
+            <LineString id="geom_388">
+                <coordinates>139.89154,35.93113,0.0 139.89065,35.93203,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_391">
+            <name>梅郷</name>
+            <Point id="geom_389">
+                <coordinates>139.891095,35.93158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_392">
+            <name>運河</name>
+            <LineString id="geom_390">
+                <coordinates>139.90615,35.91379,0.0 139.90592,35.91495,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_393">
+            <name>運河</name>
+            <Point id="geom_391">
+                <coordinates>139.906035,35.91437,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_394">
+            <name>川間</name>
+            <LineString id="geom_392">
+                <coordinates>139.83548,35.97921,0.0 139.83361,35.97917,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_395">
+            <name>川間</name>
+            <Point id="geom_393">
+                <coordinates>139.834545,35.97919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_396">
+            <name>南桜井</name>
+            <LineString id="geom_394">
+                <coordinates>139.80921,35.98068,0.0 139.80758,35.98052,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_397">
+            <name>南桜井</name>
+            <Point id="geom_395">
+                <coordinates>139.80839500000002,35.980599999999995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_398">
+            <name>藤の牛島</name>
+            <LineString id="geom_396">
+                <coordinates>139.77856,35.98037,0.0 139.77758,35.9803,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_399">
+            <name>藤の牛島</name>
+            <Point id="geom_397">
+                <coordinates>139.77807,35.980335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_400">
+            <name>春日部</name>
+            <LineString id="geom_398">
+                <coordinates>139.75292,35.97977,0.0 139.75184,35.98022,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_401">
+            <name>春日部</name>
+            <Point id="geom_399">
+                <coordinates>139.75238,35.979995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_402">
+            <name>清水公園</name>
+            <LineString id="geom_400">
+                <coordinates>139.86065,35.95823,0.0 139.85996,35.95936,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_403">
+            <name>清水公園</name>
+            <Point id="geom_401">
+                <coordinates>139.86030499999998,35.958794999999995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_404">
+            <name>八木崎</name>
+            <LineString id="geom_402">
+                <coordinates>139.74273,35.97887,0.0 139.74187,35.97828,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_405">
+            <name>八木崎</name>
+            <Point id="geom_403">
+                <coordinates>139.7423,35.978575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_406">
+            <name>初石</name>
+            <LineString id="geom_404">
+                <coordinates>139.91824,35.88329,0.0 139.91758,35.88439,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_407">
+            <name>初石</name>
+            <Point id="geom_405">
+                <coordinates>139.91791,35.883840000000006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_408">
+            <name>野田市</name>
+            <LineString id="geom_406">
+                <coordinates>139.87152,35.94319,0.0 139.871,35.94357,0.0 139.8706,35.94387,0.0 139.87005,35.94434,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_409">
+            <name>野田市</name>
+            <Point id="geom_407">
+                <coordinates>139.8707925,35.9437425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_410">
+            <name>愛宕</name>
+            <LineString id="geom_408">
+                <coordinates>139.86498,35.95019,0.0 139.86427,35.95104,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_411">
+            <name>愛宕</name>
+            <Point id="geom_409">
+                <coordinates>139.864625,35.950615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_412">
+            <name>江戸川台</name>
+            <LineString id="geom_410">
+                <coordinates>139.91077,35.8968,0.0 139.91029,35.89766,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_413">
+            <name>江戸川台</name>
+            <Point id="geom_411">
+                <coordinates>139.91053,35.89723,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_414">
+            <name>大宮</name>
+            <LineString id="geom_412">
+                <coordinates>139.62447,35.9074,0.0 139.62403,35.9081,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_415">
+            <name>大宮</name>
+            <Point id="geom_413">
+                <coordinates>139.62425000000002,35.90775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_416">
+            <name>大和田</name>
+            <LineString id="geom_414">
+                <coordinates>139.65165,35.92947,0.0 139.65038,35.92923,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_417">
+            <name>大和田</name>
+            <Point id="geom_415">
+                <coordinates>139.651015,35.92935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_418">
+            <name>七里</name>
+            <LineString id="geom_416">
+                <coordinates>139.66657,35.93688,0.0 139.66545,35.9361,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_419">
+            <name>七里</name>
+            <Point id="geom_417">
+                <coordinates>139.66601,35.936490000000006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_420">
+            <name>北大宮</name>
+            <LineString id="geom_418">
+                <coordinates>139.6245,35.91739,0.0 139.62511,35.91849,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_421">
+            <name>北大宮</name>
+            <Point id="geom_419">
+                <coordinates>139.624805,35.91794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_422">
+            <name>岩槻</name>
+            <LineString id="geom_420">
+                <coordinates>139.69366,35.95066,0.0 139.6926,35.94984,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_423">
+            <name>岩槻</name>
+            <Point id="geom_421">
+                <coordinates>139.69313,35.95025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_424">
+            <name>東岩槻</name>
+            <LineString id="geom_422">
+                <coordinates>139.71291,35.96351,0.0 139.71163,35.96307,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_425">
+            <name>東岩槻</name>
+            <Point id="geom_423">
+                <coordinates>139.71227,35.96329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_426">
+            <name>豊春</name>
+            <LineString id="geom_424">
+                <coordinates>139.72671,35.96827,0.0 139.72566,35.9678,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_427">
+            <name>豊春</name>
+            <Point id="geom_425">
+                <coordinates>139.726185,35.968035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_428">
+            <name>大宮公園</name>
+            <LineString id="geom_426">
+                <coordinates>139.63376,35.92404,0.0 139.6324,35.92372,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_429">
+            <name>大宮公園</name>
+            <Point id="geom_427">
+                <coordinates>139.63308,35.92388,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_430">
+            <name>新鎌ヶ谷</name>
+            <LineString id="geom_428">
+                <coordinates>139.99947,35.78137,0.0 139.99948,35.78075,0.0 139.99948,35.78019,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_431">
+            <name>新鎌ヶ谷</name>
+            <Point id="geom_429">
+                <coordinates>139.99947666666668,35.78077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_432">
+            <name>押上</name>
+            <LineString id="geom_430">
+                <coordinates>139.81415,35.70668,0.0 139.81395,35.70753,0.0 139.81374,35.70843,0.0 139.81359,35.70908,0.0 139.81336,35.71012,0.0 139.81335,35.71026,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_433">
+            <name>押上</name>
+            <Point id="geom_431">
+                <coordinates>139.81369,35.70868333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
