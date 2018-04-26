@@ -36,7 +36,7 @@ class pg(pg):
         ls_kouri = []
         uriage = 0
         for x in pg:
-            ls_kouri.append('{}:{}'.format(x[0], x[3]))
+            ls_kouri.append('{0:04d}m{1}:{2}'.format(round(x[2]), x[0], x[3]))
             if debug is True:
                 print(x)
             ls.append(round(x[2]))
@@ -63,7 +63,7 @@ if __name__ == '__main__':
     rls = []
     for x in glob.glob('stationdata\\tokyo\\*.csv'):
         ls = nazo.rcsv(x)
-        rl = pg.nazo01(ls, kyori=1000)
+        rl = pg.nazo01(ls, kyori=500)
         print(x)
         rls = rls + rl
-    nazo.wcsv('stadata_tokyo_003.csv', rls)
+    nazo.wcsv('stadata_tokyo_004.csv', rls)
